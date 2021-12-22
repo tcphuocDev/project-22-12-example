@@ -2,7 +2,7 @@
   "name": "project_1",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://tcphuocdev.github.io/project-22-12-example",
+  "homepage" : "https://tcphuocdev.github.io/project-22-12-example/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
